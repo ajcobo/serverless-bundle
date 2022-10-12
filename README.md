@@ -20,7 +20,7 @@ And all this works without having to install Webpack, Babel, ESLint, esbuild, et
 -    "css-loader"
 -    "graphql-tag"
 -    "@babel/core"
--    "babel-eslint"
+-    "@babel/eslint-parser"
 -    "babel-loader"
 -    "eslint-loader"
 -    "esbuild-loader"
